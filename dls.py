@@ -20,5 +20,5 @@ graph = {
     'E': ['F'],
     'F': []
 }
-print("\nBFS Traversal:")
+print("\nDLS Traversal:")
 dls(graph, 'A',2)
