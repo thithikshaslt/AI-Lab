@@ -45,9 +45,9 @@ def jug(x,y,target):
 
     return "No solution"
 
-x = 4  
+x = 7  
 y = 3  
-target = 2     
+target = 5 
 
 solution = jug(x, y, target)
 print("Solution path:", solution)
