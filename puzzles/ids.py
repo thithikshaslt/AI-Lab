@@ -1,4 +1,4 @@
-from dls import dls
+from puzzles.dls import dls
 
 def ids(graph, start, max_depth):
     for depth in range(max_depth + 1):
