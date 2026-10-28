@@ -1,4 +1,4 @@
-# Define the model parameters at the top, like setting up the problem on paper
+# Define the model parameters at the top, like setting up the problem on paper code
 H = {'A': 0.2, 'C': 0.3, 'G': 0.3, 'T': 0.2}  # Emission probabilities for state H
 L = {'A': 0.3, 'C': 0.2, 'G': 0.2, 'T': 0.3}  # Emission probabilities for state L
 trProb = {  # Transition probabilities between states
